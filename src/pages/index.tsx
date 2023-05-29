@@ -15,7 +15,7 @@ function Index() {
         
     return (
         <>  
-            <p className="border-[1px] rounded-lg shadow-md px-4 py-2 mx-6 mt-5">
+            <p className="border-[1px] rounded-lg shadow-md px-4 py-2 mx-6">
                 Notes are not able to be deleted.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 p-6">
